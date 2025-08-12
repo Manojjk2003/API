@@ -1,7 +1,0 @@
-fastapi==0.106.0
-uvicorn==0.22.0
-sqlalchemy==2.0.18
-pydantic==2.0.3
-mysql-connector-python==8.0.33
-python-dotenv==1.0.0
-uuid==1.30
